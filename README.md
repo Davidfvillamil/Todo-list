@@ -1,5 +1,5 @@
 # Project description:
-This is a functional todo list program in which tasks can be added and deleted depending on its status
+This is a functional todo list program in which tasks can be added and deleted depending on the completition status
 
 # How to Run: 
 1. Open index.html on prefered browser
